@@ -1,2 +1,9 @@
+# Virtual env
+.venv/
+__pycache__/
+*.pyc
+
+# Large ML models
 models/*.pkl
 models/*.h5
+models/*.joblib
